@@ -1,0 +1,25 @@
+// block
+.player
+{
+    //
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+// Elements
+.player__name
+{
+    //
+}
+
+.player__stats
+{
+    //
+}
+
+.player__actions
+{
+    //
+
+	flex-shrink: 0;
+}

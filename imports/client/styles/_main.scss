@@ -1,0 +1,40 @@
+@import './components/variables';
+@import './components/title-bar';
+@import './components/wrapper';
+@import './components/item';
+@import './components/button';
+@import './components/player';
+@import './components/form';
+
+
+
+body { font-family: Helvetica, Arial, sans-serif;
+font-size: 1.6rem;
+    color: #555;
+    background: #f2f2f2;
+}
+
+html { font-size:62.5%;
+}
+
+
+
+h1 { font-size:2.4rem;
+  font-weight:300;
+}
+
+
+input,
+button,
+select
+{
+    font-size: 1.3rem;
+}
+
+h3,
+p
+{
+    margin: 0;
+    padding: 0;
+}
+
